@@ -1,0 +1,3 @@
+# imagensLaughTale
+
+Imagens de referência.
